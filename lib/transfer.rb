@@ -24,8 +24,8 @@ class Transfer
     end
   end
 
-  def reverse_transfer 
+  def reverse_transfer
     self.status = "reversed"
-  end 
+  end
 
 end
